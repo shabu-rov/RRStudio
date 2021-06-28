@@ -1,3 +1,4 @@
+![](/RRStudio_logo.png)
 # Общая информация
 **RRStudio** - приложение для создания алгоритмов из блоков для взаимодействия с Promobot Rooky и Promobot Robox. 
 
